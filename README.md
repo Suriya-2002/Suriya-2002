@@ -41,3 +41,11 @@ I'm always fascinated by **Computer Science** and Programming in general. My int
 [<img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=306998" alt="Python" height="35" />](#)
 
 [<img src="https://img.shields.io/badge/-CSS3-264DE4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4" alt="CSS3" height="35" />](#)
+
+<br /> <br /> <br />
+
+# <img src="./assets/gifs/thunder.gif" alt="Thunder" width="40"/> GitHub Statistics
+
+![Suriya KS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suriya-2002&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=Suriya+KS's+GitHub+Stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suriya-2002&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
