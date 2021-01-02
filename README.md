@@ -49,3 +49,15 @@ I'm always fascinated by **Computer Science** and Programming in general. My int
 ![Suriya KS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suriya-2002&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=Suriya+KS's+GitHub+Stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suriya-2002&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br /> <br /> <br />
+
+# <img src="./assets/gifs/mailbox.gif" alt="Mailbox" width="40"/> Get in Touch!
+
+I love hearing other's ***opinions*** and ***thoughts*** also interested in connecting with ***new people*** and ***old friends***. So, please feel free to contact me!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />](https://www.linkedin.com/in/suriya-2002/) &nbsp; &nbsp; 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />](mailto:suriya2002.chat@gmail.com) &nbsp; &nbsp; 
+[<img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />](https://github.com/Suriya-2002) &nbsp; &nbsp; 
+
+<br /> <br /> <br />
