@@ -62,3 +62,5 @@ I love hearing other's **_opinions_** and **_thoughts_** also interested in conn
 [<img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />](https://github.com/Suriya-2002) &nbsp; &nbsp;
 
 <br /> <br /> <br />
+
+![QR Code](assets/gifs/qr-code.png)
