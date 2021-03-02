@@ -1,18 +1,18 @@
 ![Banner](assets/images/banner.png)
 
-# Hey Folks, I'm [Suriya KS](https://www.linkedin.com/in/suriya-2002/ "LinkedIn Profile")! <img src="./assets/gifs/waving-hand.gif" alt="Waving Hand" width="40"/> <img src="https://komarev.com/ghpvc/?username=Suriya-2002&label=Profile Views" alt="Profile Views" align="right" /> <img src="./assets/gifs/winking-face.gif" alt="Winking Face" width="50" align="right" />
+# Hey Folks, I'm [Suriya KS](https://www.linkedin.com/in/suriya-2002/ 'LinkedIn Profile')! <img src="./assets/gifs/waving-hand.gif" alt="Waving Hand" width="40"/> <img src="https://komarev.com/ghpvc/?username=Suriya-2002&label=Profile Views" alt="Profile Views" align="right" /> <img src="./assets/gifs/winking-face.gif" alt="Winking Face" width="50" align="right" />
 
-- &nbsp; &nbsp; <img src="./assets/gifs/writing.gif" alt="Writing" width="40" /> &nbsp; &nbsp; I’m currently learning **Back-end Tech Stacks** and **App Development**
-- &nbsp; &nbsp; <img src="./assets/gifs/typing.gif" alt="Typing" width="40" /> &nbsp; &nbsp; Most used line of code `git commit -m "Initial Commit"`
-- &nbsp; &nbsp; <img src="./assets/gifs/steamed-nose-face.gif" alt="Steamed Nose Face" width="40"/> &nbsp; &nbsp; Goal of the year: To build a **Full-stack Web Appplication**
-- &nbsp; &nbsp; <img src="./assets/gifs/mega-phone.gif" alt="Mega Phone" width="40"/> &nbsp; &nbsp; Ask me about anything [here](mailto:suriya2002.chat@gmail.com)
-- &nbsp; &nbsp; <img src="./assets/gifs/thunder.gif" alt="Thunder" width="40"/> &nbsp; &nbsp; Fun fact: I **Think** a lot!
+-   &nbsp; &nbsp; <img src="./assets/gifs/writing.gif" alt="Writing" width="40" /> &nbsp; &nbsp; I’m currently learning **Back-end Tech Stacks** and **App Development**
+-   &nbsp; &nbsp; <img src="./assets/gifs/typing.gif" alt="Typing" width="40" /> &nbsp; &nbsp; Most used line of code `git commit -m "Initial Commit"`
+-   &nbsp; &nbsp; <img src="./assets/gifs/steamed-nose-face.gif" alt="Steamed Nose Face" width="40"/> &nbsp; &nbsp; Goal of the year: To build a **Full-stack Web Appplication**
+-   &nbsp; &nbsp; <img src="./assets/gifs/mega-phone.gif" alt="Mega Phone" width="40"/> &nbsp; &nbsp; Ask me about anything [here](mailto:suriya2002.chat@gmail.com)
+-   &nbsp; &nbsp; <img src="./assets/gifs/thunder.gif" alt="Thunder" width="40"/> &nbsp; &nbsp; Fun fact: I **Think** a lot!
 
 <br />
 
 ### About me &nbsp; &nbsp; &nbsp; <img src="./assets/gifs/grinning-face.gif" alt="Grinning Face" width="40" align="right" />
 
-I'm always fascinated by **Computer Science** and Programming in general. My interests go around ***Full-stack Web Development***, ***Cross-platform App Development***, Data Science, Machine Learning, and Artificial Intelligence. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering from Amrita Vishwa Vidyapeetham University, Bangalore.
+I'm always fascinated by **Computer Science** and Programming in general. My interests go around **_Full-stack Web Development_**, **_Cross-platform App Development_**, Data Science, Machine Learning, and Artificial Intelligence. I'm currently pursuing a Bachelor of Technology in Computer Science Engineering from Amrita Vishwa Vidyapeetham University, Bangalore.
 
 <br /> <br /> <br />
 
@@ -33,9 +33,10 @@ I'm always fascinated by **Computer Science** and Programming in general. My int
 [<img src="https://img.shields.io/badge/-markdown-%23000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white" alt="Markdown" height="35" />](#) &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/-shell_script%20-%23121011?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white" alt="Shell Script" height="35" />](#) &nbsp; &nbsp;
 
-<br /> 
+<br />
 
 ### Currently, My Favourite Languages are
+
 [<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="35" />](#) &nbsp; &nbsp; &nbsp; <img src="./assets/gifs/star-struck.gif" alt="Star Struck" width="50" />
 
 [<img src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=306998" alt="Python" height="35" />](#)
@@ -54,10 +55,10 @@ I'm always fascinated by **Computer Science** and Programming in general. My int
 
 # <img src="./assets/gifs/mailbox.gif" alt="Mailbox" width="40"/> Get in Touch!
 
-I love hearing other's ***opinions*** and ***thoughts*** also interested in connecting with ***new people*** and ***old friends***. So, please feel free to contact me!
+I love hearing other's **_opinions_** and **_thoughts_** also interested in connecting with **_new people_** and **_old friends_**. So, please feel free to contact me!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />](https://www.linkedin.com/in/suriya-2002/) &nbsp; &nbsp; 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />](mailto:suriya2002.chat@gmail.com) &nbsp; &nbsp; 
-[<img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />](https://github.com/Suriya-2002) &nbsp; &nbsp; 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />](https://www.linkedin.com/in/suriya-2002/) &nbsp; &nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />](mailto:suriya2002.chat@gmail.com) &nbsp; &nbsp;
+[<img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />](https://github.com/Suriya-2002) &nbsp; &nbsp;
 
 <br /> <br /> <br />
