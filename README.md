@@ -1,6 +1,6 @@
 ![Banner](assets/images/banner.png)
 
-# Hey Folks, I'm [Suriya KS](https://www.linkedin.com/in/suriya-2002/ 'LinkedIn Profile')! <img src="./assets/gifs/waving-hand.gif" alt="Waving Hand" width="40"/> <img src="https://komarev.com/ghpvc/?username=Suriya-2002&label=Profile Views" alt="Profile Views" align="right" /> <img src="./assets/gifs/winking-face.gif" alt="Winking Face" width="50" align="right" />
+# Hey Folks, I'm [Suriya KS](https://www.linkedin.com/in/suriya-2002/ 'LinkedIn Profile')! <img src="./assets/gifs/waving-hand.gif" alt="Waving Hand" width="40"/> <img src="https://komarev.com/ghpvc/?username=Suriya-2002&label=Profile Views&style=flat-square" alt="Profile Views" align="right" /> <img src="./assets/gifs/winking-face.gif" alt="Winking Face" width="50" align="right" />
 
 -   &nbsp; &nbsp; <img src="./assets/gifs/writing.gif" alt="Writing" width="40" /> &nbsp; &nbsp; I’m currently learning **Back-end Tech Stacks** and **App Development**
 -   &nbsp; &nbsp; <img src="./assets/gifs/typing.gif" alt="Typing" width="40" /> &nbsp; &nbsp; Most used line of code `git commit -m "Initial Commit"`
@@ -50,6 +50,8 @@ I'm always fascinated by **Computer Science** and Programming in general. My int
 ![Suriya KS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suriya-2002&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=Suriya+KS's+GitHub+Stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suriya-2002&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=suriya-2002)
 
 <br /> <br /> <br />
 
