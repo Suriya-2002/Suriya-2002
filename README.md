@@ -4,7 +4,8 @@
 
 -   &nbsp; &nbsp; <img src="./assets/gifs/writing.gif" alt="Writing" width="40" /> &nbsp; &nbsp; I’m currently learning **Back-end Tech Stacks** and **App Development**
 -   &nbsp; &nbsp; <img src="./assets/gifs/typing.gif" alt="Typing" width="40" /> &nbsp; &nbsp; Most used line of code `git commit -m "Initial Commit"`
--   &nbsp; &nbsp; <img src="./assets/gifs/steamed-nose-face.gif" alt="Steamed Nose Face" width="40"/> &nbsp; &nbsp; Goal of the year: To build a **Full-stack Web Appplication**
+-   &nbsp; &nbsp; <img src="./assets/gifs/steamed-nose-face.gif" alt="Steamed Nose Face" width="40"/> &nbsp; &nbsp; Goal of the year is to build a **Full-stack Web Application**
+-   &nbsp; &nbsp; <img src="./assets/gifs/bandage.gif" alt="Bandaged Face" width="40"/> &nbsp; &nbsp; I’m looking for help with with [modern-form](https://github.com/Suriya-2002/modern-form/issues/1)
 -   &nbsp; &nbsp; <img src="./assets/gifs/mega-phone.gif" alt="Mega Phone" width="40"/> &nbsp; &nbsp; Ask me about anything [here](mailto:suriya2002.chat@gmail.com)
 -   &nbsp; &nbsp; <img src="./assets/gifs/thunder.gif" alt="Thunder" width="40"/> &nbsp; &nbsp; Fun fact: I **Think** a lot!
 
@@ -28,6 +29,7 @@ I'm always fascinated by **Computer Science** and Programming in general. My int
 [<img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699" alt="SASS" height="35" />](#) &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="35" />](#) &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4" alt="PHP" height="35" />](#) &nbsp; &nbsp;
+[<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28" alt="Firebase" height="35" />](#) &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111" alt="MySQL" height="35" />](#) &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/-git%20-%23F05033?style=for-the-badge&labelColor=black&logo=git&logoColor=23F05033" alt="Shell Script" height="35" />](#) &nbsp; &nbsp;
 [<img src="https://img.shields.io/badge/-markdown-%23000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white" alt="Markdown" height="35" />](#) &nbsp; &nbsp;
