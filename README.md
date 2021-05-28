@@ -1,6 +1,6 @@
 ![Banner](assets/images/banner.png)
 
-# Hey Folks, I'm [Suriya KS](https://www.linkedin.com/in/suriya-2002/ 'LinkedIn Profile')! <img src="./assets/gifs/waving-hand.gif" alt="Waving Hand" width="40"/> <img src="https://komarev.com/ghpvc/?username=Suriya-2002&label=Profile Views&style=flat-square" alt="Profile Views" align="right" /> <img src="./assets/gifs/winking-face.gif" alt="Winking Face" width="50" align="right" />
+# Hello World, I'm [Suriya KS](https://www.linkedin.com/in/suriya-2002/ 'LinkedIn Profile')! <img src="./assets/gifs/waving-hand.gif" alt="Waving Hand" width="40"/> <img src="https://komarev.com/ghpvc/?username=Suriya-2002&label=Profile Views&style=flat-square" alt="Profile Views" align="right" /> <img src="./assets/gifs/winking-face.gif" alt="Winking Face" width="50" align="right" />
 
 -   &nbsp; &nbsp; <img src="./assets/gifs/writing.gif" alt="Writing" width="40" /> &nbsp; &nbsp; I’m currently learning **Back-end Tech Stacks** and **App Development**
 -   &nbsp; &nbsp; <img src="./assets/gifs/typing.gif" alt="Typing" width="40" /> &nbsp; &nbsp; Most used line of code `git commit -m "Initial Commit"`
